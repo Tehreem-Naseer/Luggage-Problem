@@ -10,26 +10,21 @@ using System.Windows.Forms;
 
 namespace LUGGAGE
 {
-    public partial class Form1 : Form
+    public partial class output : Form
     {
-        public Form1()
+        public output()
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
-           
-         
+
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-          
-            BackColor = Color.LightPink;
+
         }
-=======
->>>>>>> 73523b83483399491d72dfd4f0fe86239f544e1a
     }
 }
